@@ -51,5 +51,5 @@ User Input (Test Steps + Actual/Expected)
 ## 📥 Input Example
 
 ```
-Tes
+TesT
 ```
